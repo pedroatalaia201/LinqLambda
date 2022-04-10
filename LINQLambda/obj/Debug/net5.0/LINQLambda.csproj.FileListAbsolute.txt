@@ -1,0 +1,16 @@
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.exe
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.deps.json
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.runtimeconfig.json
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.runtimeconfig.dev.json
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.dll
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\bin\Debug\net5.0\LINQLambda.pdb
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.csproj.AssemblyReference.cache
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.AssemblyInfoInputs.cache
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.AssemblyInfo.cs
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.dll
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\refint\LINQLambda.dll
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.pdb
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\LINQLambda.genruntimeconfig.cache
+C:\Users\Pedro\Courses\DotNet\LINQLambda\LINQLambda\obj\Debug\net5.0\ref\LINQLambda.dll
