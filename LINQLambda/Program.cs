@@ -68,6 +68,28 @@ namespace LINQLambda
             //null
             var result9 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine("Single o Deafult test2: " + result9);
+
+            // For both Min and Max are expected to have a parameter to make the query, without this, it'll try to find by the IComparable.
+            var result10 = products.Max(p => p.Price);
+            Console.WriteLine("Max Price: " + result10);
+
+            var result11 = products.Min(p => p.Price);
+            Console.WriteLine("Min Price: " + result11);
+
+            var result12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 Sum prices: " + result12);
+
+            var result13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 Avarege prices: " + result13);
+
+            //To protect your self from empty collections exceptions
+            var result14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Avarege prices: " + result14);
+
+            // Custom Aggregated Operation - Aggregate/MapReduce?
+            var result15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x, y) => x + y);
+            Console.WriteLine("Category 1 aggregate sum:" + result15);
+
         } 
     }
 }
